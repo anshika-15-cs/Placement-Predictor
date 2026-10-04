@@ -28,6 +28,4 @@ is "no clear winner on this data"; on the real dataset the choice may differ.
 Permutation importance on the Random Forest shows only CGPA, backlogs and communication clearly above zero; the rest
 hover around zero or slightly negative. That means the model barely uses them, or the test set is too small to detect their effect.
 
-## TODO before submitting (your own part)
-- Re-run on the official dataset and update the numbers above.
-- Replace or add to section 1 with a failed approach **you** actually tried on the real data.
+
