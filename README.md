@@ -41,8 +41,7 @@ The two models perform almost the same, so neither is clearly better on this dat
 
 ```bash
 # 1. Clone the repository
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone https://github.com/anshika-15-cs/Placement-Predictor/tree/main
 
 # 2. Install dependencies
 pip install pandas numpy scikit-learn matplotlib seaborn
